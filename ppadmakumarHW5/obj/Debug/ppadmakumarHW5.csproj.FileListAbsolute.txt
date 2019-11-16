@@ -1,0 +1,10 @@
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\bin\Debug\ppadmakumarHW5.exe.config
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\bin\Debug\ppadmakumarHW5.exe
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\bin\Debug\ppadmakumarHW5.pdb
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.csprojAssemblyReference.cache
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.Form1.resources
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.Properties.Resources.resources
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.csproj.GenerateResource.cache
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.csproj.CoreCompileInputs.cache
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.exe
+P:\FALL\C#\Assignments\HW\ppadmakumarHW5\ppadmakumarHW5\obj\Debug\ppadmakumarHW5.pdb
